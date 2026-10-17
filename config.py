@@ -1,0 +1,2 @@
+TOKEN = "BOT_TOKEN_BURAYA"
+PREFIX = "!"
